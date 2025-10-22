@@ -1,4 +1,4 @@
-const API_SERVER_URL = 'http://localhost:3000'; // Ganti dengan URL server Anda
+const API_SERVER_URL = 'https://emistore.vercel.app/'; // Ganti dengan URL server Anda
 
 async function sendOrderToBotAPI(orderData) {
     try {
